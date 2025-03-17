@@ -1,0 +1,11 @@
+#key	value
+name	[My Website]
+byline	[Tagline of my website]
+safeName	amadeusweb
+footer-message	[Enter a sentence about your website here (defined in site.tsv)]
+siteMenuName	[My Menu Name]
+scaffold	sitemap
+sections	about-us
+local-url	http://localhost/sites/demo/
+live-url	https://demo.amadeusweb.site/
+year	2025
